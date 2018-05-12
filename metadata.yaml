@@ -1,0 +1,27 @@
+_repo: An-Account-of-the-expedition-to-Carthagena-with-explanatory-notes-and-observations_27173
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Knowles, Charles, Sir
+    deathdate: 1777
+    gutenberg_agent_id: '32510'
+    url: http://www.gutenberg.org/2009/agents/32510
+description: ''
+gutenberg_issued: '2008-11-06'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '27173'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Wentworth, Thomas, fl. 1741'
+- !lcsh 'Vernon, Edward, 1684-1757'
+- !lcc 'F2251'
+- !lcsh 'Cartagena (Colombia) -- History -- Siege, 1741'
+title: An Account of the expedition to Carthagena, with explanatory notes and observations
+url: http://www.gutenberg.org/ebooks/27173
